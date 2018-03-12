@@ -17,7 +17,7 @@ Features of the site:
 - Uses Font Awesome
 - Uses Animate.css
 
-## How to post an Announcement
+## How create a post 
 
 1. Create a Markdown file with the following file name format "YYYY-MM-DD-Post-Name.md". 
 2. Follow the templates below for each kind of post. 
@@ -27,7 +27,7 @@ Features of the site:
 A useful resource on Markdown can be found [here](https://daringfireball.net/projects/markdown/).
 
 
-### Announcement Post Format
+### Post Format
 
 	---
 	layout: post
