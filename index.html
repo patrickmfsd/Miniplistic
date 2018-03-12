@@ -1,0 +1,24 @@
+---
+layout: default
+index: true
+---
+
+        <div class="row">
+            <div class="col-md-1"></div>
+              <!-- Blog Post Links -->
+              <div class="blog-post-small">
+                {% for post in site.posts %}
+                  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                  <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }} &nbsp; Post By: {{post.author}}</p>
+                  {% if post.content contains '<!-- more -->' %}
+                    <p>{{ post.content | split:'<!-- more -->' | first }}
+                      <a href="{{ post.url }}">Read More</a>
+                    </p>
+                    <br>
+                  {% else %}
+                    {{ post.content }}
+                  {% endif %}
+                {% endfor %}
+            	</div>
+            <div class="col-md-1"></div>
+         </div>
