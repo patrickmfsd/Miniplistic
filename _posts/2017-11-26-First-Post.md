@@ -5,13 +5,19 @@ author: miniplistic
 categories: [Blog Post]
 ---
 
-This is the first post.
+This is a quick description of the first post.  
+
+To see more click on Read More.
+
 
 <!-- more -->
 
 
 ## Test 1,2,3
 -----
+
+Nulla vitae elit libero, a pharetra augue. Maecenas faucibus mollis interdum. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui.
+
 
 Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla.
 
