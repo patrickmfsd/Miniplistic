@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Code Example
 author: miniplistic
 categories: [Blog Post]
 ---
@@ -9,14 +9,14 @@ This post will show how code is displayed in this theme.
 
 <!-- more -->
 
-Here is a simple Hello World in Java
+Here is a simple Hello World in Java.
 
-``` public class HelloWorld{
+ 	public class HelloWorld{
  
-  public static void main(String args[]){
+ 		public static void main(String args[]){
 
-    System.out.println("Hello World !");
+ 			System.out.println("Hello World !");
   
-  }
+ 		}
  
-} ```
+ 	} 
