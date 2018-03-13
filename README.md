@@ -1,3 +1,5 @@
+![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png)
+
 # Miniplistic Theme
 
 Created and Maintained by: Patrick Mifsud
