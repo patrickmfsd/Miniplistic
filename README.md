@@ -21,7 +21,7 @@ Features of the site:
 
 ## Screenshots
 
-### Dark Mode
+### Light/Normal Mode
 ![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/LightMode.png)
 
 
