@@ -4,6 +4,11 @@
 
 Created and Maintained by: Patrick Mifsud
 
+## Contents
+1. [About](#about)
+2. [Screenshots](#screenshots)
+3. [How To Create A Post](#how create a post)
+
 ## About
 
 Welcome to the repository for the Miniplistic Theme.
