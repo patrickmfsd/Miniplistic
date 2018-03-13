@@ -1,8 +1,8 @@
-![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png "Miniplistic Logo")
+![Logo](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png "Miniplistic Logo")
 
 # Miniplistic Theme
 
-Created and Maintained by: Patrick Mifsud
+Created by: Patrick Mifsud
 
 ## Contents
 1. [About](#about)
