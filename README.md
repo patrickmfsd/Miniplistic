@@ -1,4 +1,4 @@
-![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png)
+![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png "Miniplistic Logo")
 
 # Miniplistic Theme
 
@@ -18,6 +18,15 @@ Features of the site:
 - Uses Bootstrap
 - Uses Font Awesome
 - Uses Animate.css
+
+## Screenshots
+
+### Dark Mode
+![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/LightMode.png)
+
+
+### Dark Mode
+![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/DarkMode.png)
 
 ## How create a post 
 
