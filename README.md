@@ -1,8 +1,7 @@
 ![Logo](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png "Miniplistic Logo")
 
-# Miniplistic Theme
+# Miniplistic Theme Ver. 1.3
 
-Ver. 1.3
 Created by: Patrick Mifsud
 
 ## Contents
