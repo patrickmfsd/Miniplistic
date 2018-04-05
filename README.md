@@ -2,6 +2,7 @@
 
 # Miniplistic Theme
 
+Ver. 1.3
 Created by: Patrick Mifsud
 
 ## Contents
@@ -23,7 +24,7 @@ Features of the site:
 - Custom Dark Mode
 - Responsive Theme
 - Easy Navigation
-- Uses Bootstrap
+- Uses Bootstrap 
 - Uses Font Awesome
 - Uses Animate.css
 
