@@ -14,6 +14,11 @@
 	    <a href="" target="_blank">Use This a Quick Membership Join Link</a> 
     </div>            
 	
+	
+	
+	
+	
+	
     <!-- Navigation Bar -->
     <div class="col-md-12 navbar navbar-inverse">
       <div class="navbar-header">
@@ -25,18 +30,22 @@
           <span class="icon-bar"></span>
         </button>
       
-      <div class="navbar-collapse collapse navbar-inverse-collapse">
-      	<!-- Page Links -->
-        <ul class="nav navbar-nav">
-            <li><a href=" {{ "/" | prepend: site.baseurl }}">Blog</a></li>
-            <li><a href=" {{"/projects" | prepend: site.baseurl }}">Projects</a></li>
-            <!-- Link to membership page if needed -->
-            <li><a href="" target="_blank">Membership</a></li>
-            <li><a href=" {{ "/about" | prepend: site.baseurl }}">About</a></li>
-            <li><a href=" {{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
-		</ul>
-      </div>
+      <ul class="nav justify-content-center">
+		  <li class="nav-item">
+		    <a class="nav-link active" href=" {{ "/" | prepend: site.baseurl }}">Blog</a>
+		  </li>
+		  <li class="nav-item">
+		    <a class="nav-link" href=" {{"/projects" | prepend: site.baseurl }}">Projects</a></a>
+		  </li>
+		  <li class="nav-item">
+		    <a class="nav-link" href="" target="_blank">Membership</a></a>
+		  </li>
+		  <li class="nav-item">
+		  	<a lass="nav-link" href=" {{ "/contact" | prepend: site.baseurl }}">Contact</a>
+		  </li>
+		</ul>        
+	</div>
     </div>
-    </div>
+
 
 
