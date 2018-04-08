@@ -1,6 +1,4 @@
-#
 # This file contains configuration flags for the site
-#
 
 # Name of your site
 title: Miniplistic
@@ -29,24 +27,28 @@ sitelogo: /images/site-logo.png
 # Footer Logo
 footerlogo: /images/footerlogo.png
 
-#
 # Social Links
-#
-
-# Github
-github_username:  patrickmfsd
-
-# Facebook
+github_username: patrickmfsd
 fb_username: 
-
-# Email Address
 email: 
 
-#
+# Nav Bar Links (Add newpages if your site requires it)
+blog: "/" 
+projects: "/projects"
+Membership: ""
+contact: "/contact"
+
 # !! You don't need to change any of the configuration flags below !!
-#
+
+# Pagenate support
+paginate: 5
+paginate_path: "/page:num/"
 
 permalink: /:title/
+
+# This will require each of these plugins automatically.
+plugins:
+  - jekyll-paginate 
 
 # Build settings
 markdown: kramdown
