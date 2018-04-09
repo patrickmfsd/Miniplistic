@@ -7,8 +7,8 @@ Created by: Patrick Mifsud
 ## Contents
 1. [About](#about)
 2. [Screenshots](#screenshots)
-	1. [Light/Normal Mode](#light/normal_mode)
-	2. [Dark Mode](#dark_mode)
+	1. [Normal Mode](#Normal_Mode)
+	2. [Dark Mode](#Dark_Mode)
 3. [How To Create A Post](#how_create_a_post)
 	1. [Post Format](#post_format)
 4. [Change Log](#change_log)
@@ -30,12 +30,12 @@ Features of the site:
 
 ## Screenshots
 
-### Light/Normal Mode
-![Light/Normal Mode](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/LightMode.png)
+### Normal Mode
+![Normal Mode](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/LightMode.png)
 
 
 ### Dark Mode
-![alt text](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/DarkMode.png)
+![Dark Mode](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/DarkMode.png)
 
 ## How create a post 
 
