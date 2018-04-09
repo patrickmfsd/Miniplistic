@@ -11,6 +11,7 @@ Created by: Patrick Mifsud
 	2. [Dark Mode](#dark_mode)
 3. [How To Create A Post](#how_create_a_post)
 	1. [Post Format](#post_format)
+4. [Change Log](#change_log)
 
 ## About
 
@@ -60,3 +61,22 @@ A useful resource on Markdown can be found [here](https://daringfireball.net/pro
 	<!-- more -->
 
 	Post Content
+	
+
+## Change Log
+
+### What's new in v2.0 (9 April 2017)
+
+- Updated and Migrated to Bootstrap 4
+	- Updated JS and jQuery scripts
+	- Added Popper.js 
+- Page Links for nav bar can now be set in _config.yml
+- Add support for Jekyll Pagination 
+- Added 404 page
+- Added Dismissible Alert in Header 
+- Changed Dark Mode Background to a nicer grey
+- Bug Fixes
+- Format Fixes
+- Code Tidy Up
+
+
