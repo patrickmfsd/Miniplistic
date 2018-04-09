@@ -10,11 +10,7 @@ tagline: A simple Jekyll Theme
 description: A simple Jekyll Theme
 
 # Your website URL 
-<<<<<<< HEAD
-url: https://patrickmfsd.github.io/
-=======
 url: https://patrickmfsd.github.io
->>>>>>> bootstrap4Migrate
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
