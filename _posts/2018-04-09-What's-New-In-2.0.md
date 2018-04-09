@@ -4,6 +4,7 @@ title: What's new in v2.0
 author: miniplistic
 categories: [Blog Post]
 ---
+Here's whats new 2.0.
 
 Changes: 
 - Updated and Migrated to Bootstrap 4
@@ -17,4 +18,3 @@ Changes:
 - Bug Fixes
 - Formating Fixes
 - Code Tidy Up
-This post will show how code is displayed in this theme.
