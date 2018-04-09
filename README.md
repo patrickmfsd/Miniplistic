@@ -7,11 +7,11 @@ Created by: Patrick Mifsud
 ## Contents
 1. [About](#about)
 2. [Screenshots](#screenshots)
-	1. [Normal Mode](#Normal_Mode)
-	2. [Dark Mode](#Dark_Mode)
-3. [How To Create A Post](#how_create_a_post)
-	1. [Post Format](#post_format)
-4. [Change Log](#change_log)
+	1. [Normal Mode](#normal-mode)
+	2. [Dark Mode](#dark-mode)
+3. [How To Create A Post](#how-create-a-post)
+	1. [Post Format](#post-format)
+4. [Change Log](#change-log)
 
 ## About
 
