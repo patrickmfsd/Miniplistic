@@ -1,6 +1,6 @@
 ![Logo](https://github.com/patrickmfsd/Miniplistic/blob/master/images/site-logo.png "Miniplistic Logo")
 
-# Miniplistic Theme (ver2.0)
+# Miniplistic Theme 
 
 Created by: Patrick Mifsud
 
@@ -11,7 +11,6 @@ Created by: Patrick Mifsud
 	2. [Dark Mode](#dark-mode)
 3. [How To Create A Post](#how-create-a-post)
 	1. [Post Format](#post-format)
-4. [Change Log](#change-log)
 
 ## About
 
@@ -25,8 +24,10 @@ Features of the site:
 - Responsive Theme
 - Easy Navigation
 - Uses Bootstrap 
-- Uses Font Awesome
 - Uses Animate.css
+- Pagination
+- Post Categories 
+- And More..
 
 ## Screenshots
 
