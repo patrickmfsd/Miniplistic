@@ -9,9 +9,8 @@ Created by: Patrick Mifsud
 2. [Screenshots](#screenshots)
 	1. [Normal Mode](#normal-mode)
 	2. [Dark Mode](#dark-mode)
-3. [How To Create A Post](#how-create-a-post)
-	1. [Post Format](#post-format)
-4. [Change Log](../wiki/Change-Log)
+3. [How To Create A Post](https://github.com/patrickmfsd/Miniplistic/wiki/Post-Creation)
+4. [Change Log](https://github.com/patrickmfsd/Miniplistic/wiki/Change-Log)
 
 ## About
 
@@ -38,29 +37,3 @@ Features of the site:
 
 ### Dark Mode
 ![Dark Mode](https://github.com/patrickmfsd/Miniplistic/blob/master/screenshots/DarkMode.png)
-
-## How create a post 
-
-1. Create a Markdown file with the following file name format "YYYY-MM-DD-Post-Name.md". 
-2. Follow the templates below for each kind of post. 
-3. Save Announcements posts in "\_posts" folder.
-4. Submit pull request on GitHub.
-
-A useful resource on Markdown can be found [here](https://daringfireball.net/projects/markdown/).
-
-
-### Post Format
-
-	---
-	layout: post
-	title: 
-	author: 
-	categories: [ ]
-	---
-
-	Short Description
-
-	<!-- more -->
-
-	Post Content
-	
