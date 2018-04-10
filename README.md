@@ -11,6 +11,7 @@ Created by: Patrick Mifsud
 	2. [Dark Mode](#dark-mode)
 3. [How To Create A Post](#how-create-a-post)
 	1. [Post Format](#post-format)
+4. [Change Log](../wiki/Change-Log)
 
 ## About
 
