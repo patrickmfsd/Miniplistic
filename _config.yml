@@ -32,11 +32,12 @@ github_username: patrickmfsd
 fb_username: 
 email: 
 
-# Nav Bar Links (Add newpages if your site requires it)
+# Nav Bar Links (Add new or change pages if your site requires it)
 blog: "/" 
 projects: "/projects"
-Membership: ""
+Membership: "/404"
 contact: "/contact"
+about: "/about"
 
 # !! You don't need to change any of the configuration flags below !!
 
