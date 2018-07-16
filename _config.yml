@@ -31,8 +31,9 @@ sitelogo: /images/site-logo.png
 footerlogo: /images/footerlogo.png
 
 # Social Links
-github_username: patrickmfsd
-fb_username: 
+github:  https://github.com/patrickmfsd/
+facebook: 
+twitter:
 email: 
 
 # Nav Bar Links (Add new or change pages if your site requires it)
