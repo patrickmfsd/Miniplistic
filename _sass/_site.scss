@@ -1,8 +1,23 @@
+@media (prefers-color-scheme: dark) {
+    /* Overrides for Dark Mode. */
+    body {
+        color: white !important;
+        background: #212425 !important;
+    }
+    #dm {
+        display: none;
+    }
+}
+
+
 html {
-	font-family:sans-serif;
+    font-family:  -apple-system, BlinkMacSystemFont,
+    “Segoe UI”, “Roboto”, “Oxygen”,
+    “Ubuntu”, “Cantarell”, “Fira Sans”,
+    “Droid Sans”, “Helvetica Neue”, sans-serif;
+    
 	-ms-text-size-adjust:100%;
 	-webkit-text-size-adjust:100%;
-	
 }
 
 .site-header{
@@ -41,6 +56,14 @@ body {
 .navbar-toggler {
      outline: none !important;
      border: none !important;
+}
+
+.highlight {
+    background-color: #353A3F !important;
+    color: white !important;
+    padding: 5px 20px;
+    border-radius: 3px;
+    border: 1px;
 }
 
 // Link Color
